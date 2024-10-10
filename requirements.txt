@@ -1,0 +1,13 @@
+apparmor==3.1.7
+attrs==23.2.1.dev0
+cffi==1.17.1
+cryptography==42.0.8
+docutils==0.21.2
+filelock==3.13.3
+LibAppArmor==3.1.7
+packaging==24.1
+psycopg2==2.9.9
+pwquality==1.4.5
+pycparser==2.22
+PyGObject==3.50.0
+wheel==0.44.0
